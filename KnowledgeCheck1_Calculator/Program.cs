@@ -10,7 +10,7 @@ namespace KnowledgeCheck1_Calculator
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Justin was here");
             Console.WriteLine("Hello. Press 1 for addition, 2 for subtraction, 3 for multiplication, and 4 for division");
 
             var input = Console.ReadLine();
